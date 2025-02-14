@@ -19,7 +19,7 @@ Instacart is an online grocery store operating through an app. They want to unco
 - What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the product customers are ordering, and anything else you can think of
 
 
-  ## Libraries Used
+## Libraries Used
 
 - pandas: for data analysis
 - numpy: for mathematical equations
@@ -27,5 +27,5 @@ Instacart is an online grocery store operating through an app. They want to unco
 - scipy: for scientific computing & mathematical equations
 
 
-  ## Disclaimer
+## Disclaimer
   Instacart is a real company that’s made their data available online, however the data here is fabricated by CareerFoundry for the purpose of analysis.
